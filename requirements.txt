@@ -1,0 +1,12 @@
+langchain 
+langchain-openai 
+langchain-anthropic 
+langchain-community 
+wikipedia
+python-dotenv
+pypdf
+faiss-cpu
+shiny
+langchain-ollama
+pip install docarray
+pandas

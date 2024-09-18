@@ -1,0 +1,10 @@
+*.db
+.env
+__pycache__
+faiss_index/*
+faiss_index
+tmp
+data/
+db/
+venv/
+.DS_Store
